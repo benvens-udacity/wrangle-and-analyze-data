@@ -129,3 +129,6 @@ dmypy.json
 .pyre/
 /config/private/
 /data/
+
+wrangle_act_v0.1.ipynb
+wrangle_act_v0.2.ipynb
